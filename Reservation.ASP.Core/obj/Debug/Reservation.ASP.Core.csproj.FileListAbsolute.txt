@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.pdb
