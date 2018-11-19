@@ -12,3 +12,17 @@ C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.AS
 C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.pdb
 C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.Migrations.addingFirstMigrations.resources
 C:\Users\HP\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csproj.GenerateResource.Cache
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.exe.config
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.exe
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.pdb
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.dll
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.exe
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.pdb
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.xml
+D:\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csprojResolveAssemblyReference.cache
+D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.Migrations.addingFirstMigrations.resources
+D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csproj.GenerateResource.Cache
+D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.exe
+D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.pdb

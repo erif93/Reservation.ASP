@@ -1,0 +1,10 @@
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\Reservation.ASP.BussinessLogic.exe.config
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\Reservation.ASP.BussinessLogic.exe
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\Reservation.ASP.BussinessLogic.pdb
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\EntityFramework.dll
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\EntityFramework.xml
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\obj\Debug\Reservation.ASP.BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\obj\Debug\Reservation.ASP.BussinessLogic.exe
+D:\Reservation.ASP\Reservation.ASP.BussinessLogic\obj\Debug\Reservation.ASP.BussinessLogic.pdb

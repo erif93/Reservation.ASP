@@ -52,12 +52,40 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\Kereta\Application\IChairRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IDetailChairRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IRateRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IScheduleRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IStationRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\ITrainRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\ITrainReservationRepository.cs" />
+    <Compile Include="Interfaces\Kereta\IChairService.cs" />
+    <Compile Include="Interfaces\Kereta\IDetailChairService.cs" />
+    <Compile Include="Interfaces\Kereta\IRateService.cs" />
+    <Compile Include="Interfaces\Kereta\IScheduleService.cs" />
+    <Compile Include="Interfaces\Kereta\IStationService.cs" />
+    <Compile Include="Interfaces\Kereta\ITrainClassService.cs" />
+    <Compile Include="Interfaces\Kereta\ITrainReservationService.cs" />
+    <Compile Include="Interfaces\Kereta\ITrainService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\Hotel\Application\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation.ASP.Core\Reservation.ASP.Core.csproj">
+      <Project>{ec25fe5a-c611-47da-a11f-1f66a07f75ef}</Project>
+      <Name>Reservation.ASP.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation.ASP.DataAccess\Reservation.ASP.DataAccess.csproj">
+      <Project>{2f2fb294-1ffe-443e-aa4d-6b1599dd7f28}</Project>
+      <Name>Reservation.ASP.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
