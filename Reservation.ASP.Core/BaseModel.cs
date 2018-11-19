@@ -12,9 +12,9 @@ namespace Reservation.ASP.Core
         [Key]
 
         public int Id { get; set; }
-        public String CreateBy { get; set; }
-        public String UpdateBy { get; set; }
-        public String DeleteBy { get; set; }
+        public string CreateBy { get; set; }
+        public string UpdateBy { get; set; }
+        public string DeleteBy { get; set; }
         public DateTimeOffset CreateDate { get; set; }
         public DateTimeOffset UpdateDate { get; set; }
         public DateTimeOffset DeleteDate { get; set; }

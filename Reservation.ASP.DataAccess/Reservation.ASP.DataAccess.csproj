@@ -32,6 +32,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
@@ -79,6 +80,26 @@
     <Compile Include="Models\TrainReservation.cs" />
     <Compile Include="Models\Village.cs" />
     <Compile Include="Models\Wagon.cs" />
+    <Compile Include="Param\ChairParam.cs" />
+    <Compile Include="Param\DetailChairParam.cs" />
+    <Compile Include="Param\DetailHotelParam.cs" />
+    <Compile Include="Param\DistrictParam.cs" />
+    <Compile Include="Param\FacilityParam.cs" />
+    <Compile Include="Param\HotelParam.cs" />
+    <Compile Include="Param\HotelReservationParam.cs" />
+    <Compile Include="Param\ProvinceParam.cs" />
+    <Compile Include="Param\RateParam.cs" />
+    <Compile Include="Param\RegencyParam.cs" />
+    <Compile Include="Param\RoomFacilityParam.cs" />
+    <Compile Include="Param\RoomParam.cs" />
+    <Compile Include="Param\RoomTypeParam.cs" />
+    <Compile Include="Param\ScheduleParam.cs" />
+    <Compile Include="Param\StationParam.cs" />
+    <Compile Include="Param\TrainClassParam.cs" />
+    <Compile Include="Param\TrainParam.cs" />
+    <Compile Include="Param\TrainReservationParam.cs" />
+    <Compile Include="Param\VillageParam.cs" />
+    <Compile Include="Param\WagonParam.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -86,9 +107,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Param\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Reservation.ASP.Core\Reservation.ASP.Core.csproj">
       <Project>{ec25fe5a-c611-47da-a11f-1f66a07f75ef}</Project>
