@@ -59,6 +59,7 @@
     <Compile Include="Interfaces\Kereta\Application\IStationRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\ITrainRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\ITrainReservationRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IWagonRepository.cs" />
     <Compile Include="Interfaces\Kereta\IChairService.cs" />
     <Compile Include="Interfaces\Kereta\IDetailChairService.cs" />
     <Compile Include="Interfaces\Kereta\IRateService.cs" />
@@ -67,6 +68,7 @@
     <Compile Include="Interfaces\Kereta\ITrainClassService.cs" />
     <Compile Include="Interfaces\Kereta\ITrainReservationService.cs" />
     <Compile Include="Interfaces\Kereta\ITrainService.cs" />
+    <Compile Include="Interfaces\Kereta\IWagonService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

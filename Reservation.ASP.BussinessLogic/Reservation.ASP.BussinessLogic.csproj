@@ -54,11 +54,30 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\Kereta\ChairService.cs" />
+    <Compile Include="Repository\Kereta\Repository\ChairRepository.cs" />
+    <Compile Include="Repository\Kereta\Repository\TrainRepository.cs" />
+    <Compile Include="Repository\Kereta\TrainService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation.ASP.Common\Reservation.ASP.Common.csproj">
+      <Project>{580fef0b-88ca-46f2-b8ff-8f9241c4c8d4}</Project>
+      <Name>Reservation.ASP.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation.ASP.Core\Reservation.ASP.Core.csproj">
+      <Project>{ec25fe5a-c611-47da-a11f-1f66a07f75ef}</Project>
+      <Name>Reservation.ASP.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation.ASP.DataAccess\Reservation.ASP.DataAccess.csproj">
+      <Project>{2f2fb294-1ffe-443e-aa4d-6b1599dd7f28}</Project>
+      <Name>Reservation.ASP.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
