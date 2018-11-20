@@ -20,6 +20,12 @@ namespace Reservation.ASP
             // e.g. container.RegisterType<ITestService, TestService>();
             container.RegisterType<IChairService, ChairService>();
             container.RegisterType<IChairRepository, ChairRepository>();
+            container.RegisterType<ITrainService, TrainService>();
+            container.RegisterType<ITrainRepository, TrainRepository>();
+            container.RegisterType<IStationService, StationService>();
+            container.RegisterType<IStationRepository, StationRepository>();
+            container.RegisterType<IDistrictService, DistrictService>();
+            container.RegisterType<IDistrictRepository, DistrictRepository>();
 
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));
         }

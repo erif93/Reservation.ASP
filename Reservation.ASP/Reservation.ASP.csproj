@@ -208,6 +208,7 @@
     <Compile Include="Controllers\ChairsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\StationsController.cs" />
     <Compile Include="Controllers\TrainsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -4084,10 +4085,14 @@
     <Content Include="Views\Chairs\Index.cshtml" />
     <Content Include="Views\Chairs\Create.cshtml" />
     <Content Include="Views\Chairs\Edit.cshtml" />
+    <Content Include="Views\Trains\Index.cshtml" />
+    <Content Include="Views\Trains\Create.cshtml" />
+    <Content Include="Views\Trains\Edit.cshtml" />
+    <Content Include="Views\Stations\Index.cshtml" />
+    <Content Include="Views\Stations\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Trains\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

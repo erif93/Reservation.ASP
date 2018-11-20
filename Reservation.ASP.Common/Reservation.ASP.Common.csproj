@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Interfaces\Kereta\Application\IChairRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IDetailChairRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IDistrictRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IRateRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IScheduleRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IStationRepository.cs" />
@@ -62,6 +63,7 @@
     <Compile Include="Interfaces\Kereta\Application\IWagonRepository.cs" />
     <Compile Include="Interfaces\Kereta\IChairService.cs" />
     <Compile Include="Interfaces\Kereta\IDetailChairService.cs" />
+    <Compile Include="Interfaces\Kereta\IDistrictService.cs" />
     <Compile Include="Interfaces\Kereta\IRateService.cs" />
     <Compile Include="Interfaces\Kereta\IScheduleService.cs" />
     <Compile Include="Interfaces\Kereta\IStationService.cs" />

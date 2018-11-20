@@ -55,8 +55,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\Kereta\ChairService.cs" />
+    <Compile Include="Repository\Kereta\DistrictService.cs" />
     <Compile Include="Repository\Kereta\Repository\ChairRepository.cs" />
+    <Compile Include="Repository\Kereta\Repository\DistrictRepository.cs" />
+    <Compile Include="Repository\Kereta\Repository\StationRepository.cs" />
     <Compile Include="Repository\Kereta\Repository\TrainRepository.cs" />
+    <Compile Include="Repository\Kereta\StationService.cs" />
     <Compile Include="Repository\Kereta\TrainService.cs" />
   </ItemGroup>
   <ItemGroup>

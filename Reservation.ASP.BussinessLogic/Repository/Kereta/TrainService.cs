@@ -6,34 +6,46 @@ using System.Text;
 using System.Threading.Tasks;
 using Reservation.ASP.DataAccess.Models;
 using Reservation.ASP.DataAccess.Param;
+using Reservation.ASP.Common.Interfaces.Kereta.Application;
 
 namespace Reservation.ASP.BussinessLogic.Repository.Kereta
 {
     public class TrainService : ITrainService
     {
+        private readonly ITrainRepository _itrainrepository;
+        bool status = false;
+        public TrainService()
+        {
+
+        }
+        public TrainService(ITrainRepository itrainrepository)
+        {
+            this._itrainrepository = itrainrepository;
+        }
         public bool Delete(int? id)
         {
-            throw new NotImplementedException();
+            return _itrainrepository.Delete(id);
         }
 
         public List<Train> Get()
         {
-            throw new NotImplementedException();
+            return _itrainrepository.Get();
         }
 
         public Train Get(int? id)
         {
-            throw new NotImplementedException();
+            //var supRepo.Get(id);
+            return _itrainrepository.Get(id);
         }
 
         public bool Insert(TrainParam _trainparam)
         {
-            throw new NotImplementedException();
+            return _itrainrepository.Insert(_trainparam);
         }
 
         public bool Update(TrainParam _trainparam)
         {
-            throw new NotImplementedException();
+            return _itrainrepository.Update(_trainparam);
         }
     }
 }
