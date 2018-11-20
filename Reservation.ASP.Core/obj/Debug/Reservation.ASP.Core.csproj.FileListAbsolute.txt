@@ -18,3 +18,13 @@ D:\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.xml
 D:\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.csprojResolveAssemblyReference.cache
 D:\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.exe
 D:\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.exe.config
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.csprojResolveAssemblyReference.cache
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.pdb

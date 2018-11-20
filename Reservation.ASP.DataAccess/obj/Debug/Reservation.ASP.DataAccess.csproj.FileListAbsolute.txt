@@ -26,3 +26,17 @@ D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAcce
 D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csproj.GenerateResource.Cache
 D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.exe
 D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.exe.config
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.Migrations.addingFirstMigrations.resources
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csproj.GenerateResource.Cache
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.pdb
