@@ -35,7 +35,6 @@ namespace Reservation.ASP.DataAccess.Param
             this.CreateBy = "";//isi
             this.UpdateBy = "";//isi
             this.DeleteBy = "";//isi
-
         }
     }
 }

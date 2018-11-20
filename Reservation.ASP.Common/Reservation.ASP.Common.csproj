@@ -76,19 +76,23 @@
     <Compile Include="Interfaces\Hotelku\IVillageService.cs" />
     <Compile Include="Interfaces\Kereta\Application\IChairRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IDetailChairRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IDistrictRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IRateRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IScheduleRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IStationRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\ITrainRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\ITrainReservationRepository.cs" />
+    <Compile Include="Interfaces\Kereta\Application\IWagonRepository.cs" />
     <Compile Include="Interfaces\Kereta\IChairService.cs" />
     <Compile Include="Interfaces\Kereta\IDetailChairService.cs" />
+    <Compile Include="Interfaces\Kereta\IDistrictService.cs" />
     <Compile Include="Interfaces\Kereta\IRateService.cs" />
     <Compile Include="Interfaces\Kereta\IScheduleService.cs" />
     <Compile Include="Interfaces\Kereta\IStationService.cs" />
     <Compile Include="Interfaces\Kereta\ITrainClassService.cs" />
     <Compile Include="Interfaces\Kereta\ITrainReservationService.cs" />
     <Compile Include="Interfaces\Kereta\ITrainService.cs" />
+    <Compile Include="Interfaces\Kereta\IWagonService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Reservation.ASP.DataAccess.Param.ChairParam>
+@{
+    Layout = "~/Views/Shared/_AdminKeretaTemplate.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a href="Chairs/Create"><button class="btn pull-right hidden-sm-down btn-success"><i class="mdi mdi-plus-circle"></i> Create</button></a>
+    @*@Html.ActionLink("Create New", "Create", null,)*@
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            Action
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.ActionLink(" ", "Edit", new { id = item.Id }, new { @class = "fa fa-pencil text-inverse m-r-10", @title = "Edit" })|
+                <a title="Delete" data-original-title="Close" class="fa fa-close text-danger" onclick="check(@item.Id)"></a>
+            </td>
+        </tr>
+    }
+</table>
+@section scripts{
+    <script src="~/Content/Admin/assets/plugins/sweetalert/sweetalert.min.js"></script>
+    <script src="~/Content/Admin/assets/plugins/sweetalert/jquery.sweet-alert.custom.js"></script>
+    <link href="~/Content/Admin/assets/plugins/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+    <script>
+        function check(nilai) {
+            swal({
+                title: "Are you sure?",
+                text: "You will not be able to recover this imaginary file!",
+                type: "warning",
+                showCancelButton: true,
+                confirmButtonClass: "btn-danger",
+                confirmButtonText: "Yes, delete it!",
+                cancelButtonText: "No, cancel plx!",
+                closeOnConfirm: false,
+                closeOnCancel: false
+            },
+            function (isConfirm) {
+                if (isConfirm) {
+                    $.ajax({
+                        type: "POST",
+                        url: 'Chairs/Delete',
+                        data: { id: nilai },
+                        success: function (data) {
+                            swal("Deleted!", "Your imaginary file has been deleted.", "success");
+                            setTimeout(function(){
+                                location.reload();
+                            }, 1200);
+                        },
+                        error: function (jqXHR, textStatus, errorThrown) {
+                            alert('File tidak dapat di upload');
+                        }
+                    });
+                } else {
+                    swal("Cancelled", "Your imaginary file is safe :)", "error");
+                }
+            });
+        }
+    </script>
+}

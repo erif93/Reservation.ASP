@@ -136,6 +136,7 @@ D:\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.
 D:\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.csprojResolveAssemblyReference.cache
 D:\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.dll
 D:\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.pdb
+<<<<<<< HEAD
 D:\BACKUP\Reservation.ASP\Reservation.ASP\bin\roslyn\csc.exe
 D:\BACKUP\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\BACKUP\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -230,3 +231,99 @@ D:\BACKUP\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.MicrosoftA
 D:\BACKUP\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.csprojResolveAssemblyReference.cache
 D:\BACKUP\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.dll
 D:\BACKUP\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.pdb
+=======
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\csc.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\vbc.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.dll.config
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Antlr3.Runtime.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\EntityFramework.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\EntityFramework.SqlServer.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Newtonsoft.Json.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Owin.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Helpers.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Mvc.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Optimization.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Razor.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.WebPages.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.WebPages.Razor.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\WebGrease.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Helpers.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Mvc.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Optimization.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.Razor.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.WebPages.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\System.Web.WebPages.Razor.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Antlr3.Runtime.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Newtonsoft.Json.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\EntityFramework.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\EntityFramework.SqlServer.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.csprojResolveAssemblyReference.cache
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\obj\Debug\Reservation.ASP.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.BussinessLogic.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.Common.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.Core.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.DataAccess.exe
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.BussinessLogic.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.Common.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.Core.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Reservation.ASP.DataAccess.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\CommonServiceLocator.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Abstractions.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Configuration.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Container.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Interception.Configuration.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Interception.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Mvc5.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.RegistrationByConvention.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.ServiceLocation.dll
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\CommonServiceLocator.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Abstractions.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Configuration.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Container.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Interception.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.Interception.Configuration.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.RegistrationByConvention.pdb
+C:\Users\holario\Documents\Visual Studio 2015\Projects\Reservation.ASP\Reservation.ASP\bin\Unity.ServiceLocation.pdb
+>>>>>>> faf1ebc964bb4868c30062c7b443c449fe9b1495
