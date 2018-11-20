@@ -18,3 +18,13 @@ D:\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.xml
 D:\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.csprojResolveAssemblyReference.cache
 D:\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.exe
 D:\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.exe.config
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\Reservation.ASP.Core.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.dll
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.xml
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.csprojResolveAssemblyReference.cache
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Core\obj\Debug\Reservation.ASP.Core.pdb

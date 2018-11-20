@@ -52,6 +52,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\Hotelku\Application\IDetailHotelRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IDistrictRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IFacilityRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IHotelRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IHotelReservationRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IProvinceRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IRegencyRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IRoomFacilityRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IRoomRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IRoomTypeRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\Application\IVillageRepository.cs" />
+    <Compile Include="Interfaces\Hotelku\IDetailHotelService.cs" />
+    <Compile Include="Interfaces\Hotelku\IDistrictService.cs" />
+    <Compile Include="Interfaces\Hotelku\IFacilityService.cs" />
+    <Compile Include="Interfaces\Hotelku\IHotelReservationService.cs" />
+    <Compile Include="Interfaces\Hotelku\IHotelService.cs" />
+    <Compile Include="Interfaces\Hotelku\IProvinceService.cs" />
+    <Compile Include="Interfaces\Hotelku\IRegencyService.cs" />
+    <Compile Include="Interfaces\Hotelku\IRoomFacilityService.cs" />
+    <Compile Include="Interfaces\Hotelku\IRoomService.cs" />
+    <Compile Include="Interfaces\Hotelku\IRoomTypeService.cs" />
+    <Compile Include="Interfaces\Hotelku\IVillageService.cs" />
     <Compile Include="Interfaces\Kereta\Application\IChairRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IDetailChairRepository.cs" />
     <Compile Include="Interfaces\Kereta\Application\IRateRepository.cs" />
@@ -74,9 +96,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\Hotel\Application\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Reservation.ASP.Core\Reservation.ASP.Core.csproj">
       <Project>{ec25fe5a-c611-47da-a11f-1f66a07f75ef}</Project>

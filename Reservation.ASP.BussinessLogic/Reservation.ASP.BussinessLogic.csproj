@@ -52,12 +52,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HotelRepository\DetailHotelRepository.cs" />
+    <Compile Include="HotelRepository\DistrictRepository.cs" />
+    <Compile Include="HotelRepository\FacilityRepository.cs" />
+    <Compile Include="HotelRepository\HotelRepository.cs" />
+    <Compile Include="HotelRepository\HotelReservationRepository.cs" />
+    <Compile Include="HotelRepository\ProvinceRepository.cs" />
+    <Compile Include="HotelRepository\RegencyRepository.cs" />
+    <Compile Include="HotelRepository\RoomFacilityRepository.cs" />
+    <Compile Include="HotelRepository\RoomRepository.cs" />
+    <Compile Include="HotelRepository\RoomTypeRepository.cs" />
+    <Compile Include="HotelRepository\VillageRepository.cs" />
+    <Compile Include="HotelService\DetailHotelService.cs" />
+    <Compile Include="HotelService\FacilityService.cs" />
+    <Compile Include="HotelService\HotelService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation.ASP.Common\Reservation.ASP.Common.csproj">
+      <Project>{580fef0b-88ca-46f2-b8ff-8f9241c4c8d4}</Project>
+      <Name>Reservation.ASP.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation.ASP.Core\Reservation.ASP.Core.csproj">
+      <Project>{ec25fe5a-c611-47da-a11f-1f66a07f75ef}</Project>
+      <Name>Reservation.ASP.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation.ASP.DataAccess\Reservation.ASP.DataAccess.csproj">
+      <Project>{2f2fb294-1ffe-443e-aa4d-6b1599dd7f28}</Project>
+      <Name>Reservation.ASP.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

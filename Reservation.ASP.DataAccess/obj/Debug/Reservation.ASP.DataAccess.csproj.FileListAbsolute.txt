@@ -26,3 +26,17 @@ D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAcce
 D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csproj.GenerateResource.Cache
 D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.exe
 D:\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.exe.config
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.DataAccess.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.dll
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\Reservation.ASP.Core.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.xml
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csprojResolveAssemblyReference.cache
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.Migrations.addingFirstMigrations.resources
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.csproj.GenerateResource.Cache
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.DataAccess\obj\Debug\Reservation.ASP.DataAccess.pdb

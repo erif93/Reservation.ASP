@@ -1,1 +1,15 @@
 D:\Reservation.ASP\Reservation.ASP.Common\obj\Debug\Reservation.ASP.Common.csprojResolveAssemblyReference.cache
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.Common.exe.config
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.Common.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.Common.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\EntityFramework.dll
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.Core.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.DataAccess.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.Core.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\Reservation.ASP.DataAccess.pdb
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\EntityFramework.xml
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\obj\Debug\Reservation.ASP.Common.csprojResolveAssemblyReference.cache
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\obj\Debug\Reservation.ASP.Common.exe
+D:\BACKUP\Reservation.ASP\Reservation.ASP.Common\obj\Debug\Reservation.ASP.Common.pdb
